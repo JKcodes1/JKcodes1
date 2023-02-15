@@ -1,7 +1,7 @@
 ### **Hello!**
 
 ### Welcome to my GitHub page. 
-I know 
+I know: 
 * Python, 
 * SQL/SQLite & databases, 
 * HTML & CSS, 

@@ -16,4 +16,3 @@ Other interesting projects:
 
 ### Please feel free to visit the projects on my page.
 
-### Enjoy! :smile:

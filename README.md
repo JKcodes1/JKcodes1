@@ -8,7 +8,7 @@ I know:
 * and Django, 
 and I continuously develop my skills.
 
-My lates portfolio project https://monthlybudgetportfolioproject.herokuapp.com/
+My lates portfolio project in Flask https://monthlybudgetportfolioproject.herokuapp.com/
 
 Other interesting project https://github.com/JKcodes1/StoreManagementDatabase
 

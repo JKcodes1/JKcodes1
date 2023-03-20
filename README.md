@@ -10,7 +10,9 @@ and I continuously develop my skills.
 
 My lates portfolio project in Flask https://monthlybudgetportfolioproject.herokuapp.com/
 
-Other interesting project https://github.com/JKcodes1/StoreManagementDatabase
+Other interesting projects:
+* Store Management https://github.com/JKcodes1/StoreManagementDatabase
+* Guess the Number https://github.com/JKcodes1/GuessTheNumber
 
 ### Please feel free to visit the projects on my page.
 

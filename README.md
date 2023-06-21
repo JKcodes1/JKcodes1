@@ -1,14 +1,15 @@
 ### **Hello!**
 
 ### Welcome to my GitHub page. 
-I know: 
+
+My tech stack: 
 * Python, 
 * SQL/SQLite & databases, 
 * HTML & CSS, 
 * and Django, 
 and I continuously develop my skills.
 
-My lates portfolio project in Flask https://monthlybudgetportfolioproject.herokuapp.com/
+My latest portfolio project in Flask https://monthlybudgetportfolioproject.herokuapp.com/
 
 Other interesting projects:
 * Store Management https://github.com/JKcodes1/StoreManagementDatabase

@@ -9,8 +9,6 @@ My tech stack:
 * and Django, 
 and I continuously develop my skills.
 
-My favourite algorithm has to be hashing.
-
 The latest portfolio project in Flask is https://monthlybudgetportfolioproject.herokuapp.com/
 
 Other interesting projects:

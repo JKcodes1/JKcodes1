@@ -9,8 +9,6 @@ My tech stack:
 * and Django, 
 and I continuously develop my skills.
 
-The latest portfolio project in Flask is https://monthlybudgetportfolioproject.herokuapp.com/
-
 Other interesting projects:
 * Store Management https://github.com/JKcodes1/StoreManagementDatabase
 * Guess the Number https://github.com/JKcodes1/GuessTheNumber - top tip, the best way to find the solution is to follow binary search algorithm logic
